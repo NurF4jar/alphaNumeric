@@ -1,6 +1,3 @@
-# Sort alphaNumeric list Test
-
-
 # function main
 def main():
     alphaNumeric = [12, 9, 30, "A", "M", 99, 82, "J", "N", "B"]
